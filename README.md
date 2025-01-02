@@ -1,9 +1,9 @@
-👋 Hi, I’m Joel Moungang 🌐 A Software Engineer
-📍 Remote | Cameroon
-👀 I’m interested in programming, artificial intelligence.
-🌱 I’m currently bachelor degree holder in software engineering.
-⚙️ Tech Stack : JAVA  | NEXT JS | KOTLIN | FLUTTER 
-💞️ I’m looking to collaborate on opensource programming  projects in order to better my skills.
+👋 Hi, I’m Joel Moungang 🌐Software Engineer
+📍 Remote | Onsite | Hybrid
+👀 I’m interested in programming, and artificial intelligence.
+🌱 I’m currently a bachelor degree holder in software engineering.
+⚙️ Tech Stack : FLUTTER | JAVASCRIPT | JAVA | KOTLIN 
+💞️ I’m looking to collaborate on opensource programming OR AI  projects in order to better my skills.
 📫 How to reach me :
 🐈 Github
 🔗 Linkedin
